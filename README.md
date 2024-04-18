@@ -1,6 +1,6 @@
 Download project
 
-`git clone https://github.com/Trinity-SYT-SECURITY/gemini_chatpdf.git`
+`https://github.com/Trinity-SYT-SECURITY/ChatPDF_with_Gemini.git`
 
 Give the file permissions
 
