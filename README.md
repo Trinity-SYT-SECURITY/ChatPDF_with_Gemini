@@ -1,4 +1,5 @@
 Download project
+
 `git clone https://github.com/Trinity-SYT-SECURITY/gemini_chatpdf.git`
 
 Give the file permissions
@@ -8,6 +9,10 @@ Give the file permissions
 Update your ubuntu
 
 `sudo apt update && sudo apt upgrade`
+
+Other step pls follow the steps below:
+
+`https://docs.google.com/document/d/1Kr9Ibjy0QqzTTGsnnxp-BgmdIxQLY5CZzuxAEgv6Ui0/edit?usp=sharing`
 
 Install the required Python packages:
 
