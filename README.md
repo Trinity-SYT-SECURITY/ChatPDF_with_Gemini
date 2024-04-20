@@ -46,3 +46,16 @@ Run the Streamlit app:
 
 ![image](https://github.com/Trinity-SYT-SECURITY/gemini_chatpdf/assets/96654161/e6a97b43-ada4-4994-9137-7704e8396905)
 
+Ask the question
+
+```
+What is the outline of the content of this document?
+
+What is the title of this paper?
+
+What technology does Gemini use?
+
+....
+
+```
+
