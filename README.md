@@ -53,7 +53,7 @@ What is the outline of the content of this document?
 
 What is the title of this paper?
 
-What technology does Gemini use?
+What technology does XXXX use?
 
 ....
 
