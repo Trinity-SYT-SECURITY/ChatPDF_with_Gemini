@@ -6,7 +6,7 @@ Download project
 
 `git clone https://github.com/Trinity-SYT-SECURITY/ChatPDF_with_Gemini.git`
 
-Enter the file path
+Go to the bottom of the file directory
 
 `cd ChatPDF_with_Gemini`
 
