@@ -32,7 +32,7 @@ Download the mousepad(more easy to edit your profile)
 
 Set up your Google API key from `https://makersuite.google.com/app/apikey` by creating a `.env` file in the root directory of the project with the following contents:
 
-+ 當前根目錄下
++ 請修改 `.env` 檔案內容，加入你的gemini api
 
 `mousepad .env`
 
