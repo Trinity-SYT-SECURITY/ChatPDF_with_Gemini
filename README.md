@@ -59,5 +59,6 @@ What technology does XXXX use?
 
 ```
 
-PPT link 要等到5月20號以後才會放到這邊
+
+[公司內部技術分享-資安大會延伸內容.pdf](https://github.com/user-attachments/files/15883656/-.pdf)
 
