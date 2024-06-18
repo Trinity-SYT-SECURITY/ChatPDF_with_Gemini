@@ -60,5 +60,5 @@ What technology does XXXX use?
 ```
 
 
-[公司內部技術分享-資安大會延伸內容.pdf](https://github.com/user-attachments/files/15883656/-.pdf)
+[資安大會內容.pdf](https://github.com/user-attachments/files/15883656/-.pdf)
 
